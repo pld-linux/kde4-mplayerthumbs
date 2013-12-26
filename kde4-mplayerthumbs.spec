@@ -5,12 +5,12 @@
 Summary:	Video thumbnail generator for KDE
 Summary(pl.UTF-8):	Generator podglądów video dla KDE
 Name:		kde4-%{orgname}
-Version:	4.11.4
+Version:	4.12.0
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	41f35e8acbbd3f8db2276091522a1e07
+# Source0-md5:	48139052118115e5d9cc1b292e79054b
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
